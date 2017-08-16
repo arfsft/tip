@@ -17,7 +17,8 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough 
 
-https://github.com/arfsft/tip/blob/master/Untitled.gif
+<img src='https://github.com/arfsft/tip/blob/master/Untitled.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
  
